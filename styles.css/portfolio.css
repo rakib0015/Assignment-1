@@ -39,6 +39,7 @@ header {
     height: 48px;
     color: #ffffff;
   background-color: #4e47ff;
+  border-radius: 10px;
 }
 .btn-style:hover {
   background-color: rgb(125, 1, 207);
