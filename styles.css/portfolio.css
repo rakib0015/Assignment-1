@@ -188,3 +188,47 @@ header {
   font-weight: bold;
   padding-top: 70px;
 }
+.get-started-banner-subtitle {
+  padding: 20px 0;
+  color: rgba(0, 0, 0, 50);
+}
+
+.get-started-banner img {
+  border-radius: 48px;
+  margin: 20px 0 71px 0;
+  width: 840px;
+  height: 365px;
+}
+
+.get-started-btn {
+  width: 200px;
+  height: 48px;
+}
+
+/* get-in-touch-section */
+.get-in-touch {
+  display: flex;
+  justify-content: space-between;
+  margin: 70px 150px;
+  height: 632px;
+}
+
+.get-in-touch-leftside {
+  margin: 200px 100px 200px 0;
+}
+
+.get-in-touch-title {
+  font-size: 97px;
+  font-weight: bold;
+}
+
+.get-in-touch-rightside input {
+  width: 497px;
+  height: 50px;
+  margin: 20px 0;
+  padding: 20px 271px 20px 32px;
+  font-size: 20px;
+  background-color: rgb(255, 249, 238);
+  border: none;
+}
+
