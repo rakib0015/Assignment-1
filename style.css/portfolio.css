@@ -40,3 +40,58 @@ header {
     color: #ffffff;
   background-color: #4e47ff;
 }
+.btn-style:hover {
+  background-color: rgb(125, 1, 207);
+  cursor: pointer;
+}
+
+/* banner styling */
+.banner-title {
+  font-size: 65px;
+  font-weight: bold;
+  color: #252432;
+  margin-bottom: 25px;
+  width: 905px;
+  height: 152px;
+}
+
+.banner {
+  width: 905px;
+  height: 152px;
+  margin: auto;
+}
+
+/* action section styles */
+.action {
+  display: flex;
+  justify-content: space-between;
+  margin: 116px 160px 116px 140px;
+}
+
+.left-side-action {
+  margin: 62px 0;
+  padding-right: 120px;
+}
+
+.action-title {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.action-subtitle {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 23px 0;
+}
+
+.action-btn {
+  width: 230px;
+  height: 50px;
+}
+
+.right-side-action img {
+  width: 403px;
+  height: 328px;
+  border-radius: 48px;
+}
+
