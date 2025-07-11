@@ -232,3 +232,34 @@ header {
   border: none;
 }
 
+#message {
+  width: 497px;
+  height: 100px;
+  margin: 20px 0;
+  padding: 20px 271px 20px 32px;
+  font-size: 20px;
+  background-color: rgb(255, 249, 238);
+  border: none;
+}
+
+form label {
+  font-size: 18px;
+}
+
+.get-in-touch-btn {
+  width: 100%;
+  height: 88px;
+}
+
+/* footer styles */
+footer {
+  height: 424px;
+  text-align: center;
+  margin: 100px 0 0 0;
+  background-color: rgb(255, 249, 238);
+}
+footer div {
+    display: flex;
+    justify-content: center;
+    gap:30px;
+}
